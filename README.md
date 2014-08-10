@@ -1,0 +1,5 @@
+Scala Risk
+----------
+
+
+    sbt run

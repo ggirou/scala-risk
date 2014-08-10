@@ -1,0 +1,5 @@
+GET	/ws				controllers.Application.socket
+
+#TODO default page
+#GET	/				controllers.Assets.at(path="/public/web", "index.html")
+GET	/*file			controllers.Assets.at(path="/public/web", file)

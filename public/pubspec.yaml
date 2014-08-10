@@ -1,0 +1,4 @@
+name: risk-codelab
+dependencies:
+  browser: any
+  
